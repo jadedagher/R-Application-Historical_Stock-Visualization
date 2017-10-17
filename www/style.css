@@ -1,0 +1,79 @@
+      body{
+      color:black;
+      background-color: #222222;
+      }
+      .dt-right{
+      background-color: #222222;
+      }
+      
+      label{
+      color: white;
+      }
+      
+      
+      .even{
+        color: white;
+      }
+      
+      .dt-right{
+        color:white;
+      }
+      
+      .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate{
+            color: white !important;
+      }
+    
+      
+      select{
+      background-color: #222222;
+      }
+      h2{
+      color: white;
+      }
+      .navbar-brand{
+        color:white;
+      }
+      pre{
+      background-color: #222222;
+      color:white;
+      }
+      .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+      background-color: #222222;
+      }
+      .nav-tabs>li>a:hover{
+      background-color: #222222;
+      }
+
+      table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd{
+      background-color: #222222;
+      color:white;
+      }
+      
+      .well{
+      background-color: #222222;
+      color:white;
+      }
+      
+      .form-control{
+      background-color: #222222;
+      color:white;
+      }
+      
+      .btn-default{
+      background-color: #222222;
+      color:white;
+      }
+      
+      .selectize-input.full{
+      background-color: #222222;
+      color:#72F549;
+      
+      }
+
+      .container-fluid{
+        background-color: #222222;
+      }
+      .navbar-default{
+      color: white;
+      background-color: #222222;
+      }

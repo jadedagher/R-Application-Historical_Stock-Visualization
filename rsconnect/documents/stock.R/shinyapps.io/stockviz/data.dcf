@@ -1,0 +1,12 @@
+name: data
+title: Data
+username:
+account: stockviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225782
+bundleId: 1030350
+url: https://stockviz.shinyapps.io/data/
+when: 1508228362.33415
+asMultiple: FALSE
+asStatic: FALSE

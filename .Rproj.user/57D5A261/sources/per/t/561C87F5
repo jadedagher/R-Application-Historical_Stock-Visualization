@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508152234339.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2886945662",
+    "id" : "561C87F5",
+    "lastKnownWriteTime" : 1508188885,
+    "last_content_update" : 1508188885440,
+    "path" : "~/Desktop/code/R/App-2/stock.R",
+    "project_path" : "stock.R",
+    "properties" : {
+        "cursorPosition" : "143,14",
+        "scrollLine" : "136",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

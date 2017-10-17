@@ -1,0 +1,13 @@
+name: App-2
+title: App-2
+username:
+account: stockviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225779
+bundleId: 1028969
+url: https://stockviz.shinyapps.io/App-2/
+when: 1508163420.59521
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
