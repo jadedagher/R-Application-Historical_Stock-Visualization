@@ -25,7 +25,7 @@ ui <- fluidPage(
                 sidebarPanel(
                   
                   helpText("Select a stock to examine. 
-                           Information will be collected from Google finance."),
+                           Information will be collected from Google finance. For example: AAPL, GOOG, AMZN"),
                   
                   textInput("symb", "Symbol", "FB"),
                   
@@ -87,7 +87,7 @@ ui <- fluidPage(
               
               sidebarPanel(
                 helpText("Select a Currency to examine. 
-                         Information will be collected from Google finance."),
+                         Information will be collected from Google finance. For example: EUR/USD, USD/GBP, GBP/JPY"),
                 
                 textInput("cur", "Currency Exchange", "BTC/EUR"),
                 
