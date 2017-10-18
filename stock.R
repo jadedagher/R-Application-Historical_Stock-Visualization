@@ -262,6 +262,8 @@ server <- function(input, output) {
 } #end server
 
 
-# Run the app
+# Run the app with shiny
 shinyApp(ui, server)
+
+
 
