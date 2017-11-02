@@ -5,9 +5,9 @@ account: stockviz
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 225782
-bundleId: 1032880
+bundleId: 1056455
 url: https://stockviz.shinyapps.io/data/
-when: 1508334670.66607
+when: 1509640494.49024
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: README.md|www/screenshot.png
+ignoredFiles: README.md|www/screenshot.png|www/screenshot2.png

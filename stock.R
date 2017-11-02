@@ -44,9 +44,12 @@ ui <- fluidPage(
                   
                   hr(),
                   br(),
-                  downloadButton("downloadData", "Download data")
+                  downloadButton("downloadData", "Download data"),
+                  br(),
+                  helpText("Jade Dagher", align = "right")
                 
                 ), #end sidebarPanel Page 1
+                
                 
                 mainPanel(
                   
@@ -102,7 +105,9 @@ ui <- fluidPage(
                              choices = list("MACD indicators" = 1, "BBAND indicators" = 2, "EMA indicators" = 3), selected = 1),
                 hr(),
                 br(),
-                downloadButton("downloadDatafx", "Download data")
+                downloadButton("downloadDatafx", "Download data"),
+                br(),
+                helpText("Jade Dagher", align = "right")
               ), #end sidebarPanel Page 2
             
               mainPanel(
