@@ -149,7 +149,7 @@ server <- function(input, output) {
   
   #equity data import with quantmod library
   dataInput <- reactive({
-    getSymbols(input$symb, src = "google", 
+    getSymbols(input$symb, src = "yahoo", 
                from = input$dates[1],
                to = input$dates[2],
                auto.assign = FALSE)
@@ -160,7 +160,7 @@ server <- function(input, output) {
     getFX(input$cur,
                from = input$datesfx[1],
                to = input$datesfx[2],
-               src = "google",
+               src = "yahoo",
                auto.assign = FALSE)
   })
   
